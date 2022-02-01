@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8be7af4113182764b9d4fb3db1d50ac8
+  m_SerializeEntries:
+  - m_GUID: 144b2afb059ecb945a9f4b815214a5a5
+    m_Address: Assets/Scenes/MainMenu.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40666f44aec7b5a468eec81411811d4c
+    m_Address: Assets/Scenes/SettingsScreen.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 818c077ffd9ef0a44bae9cfef9ef804f
+    m_Address: Assets/Scenes/ShopScreen.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d541a36443285964fb2ab876b5bb852c
+    m_Address: Assets/Prefabs/Home.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 269e4b6e7046fd542a8e045174b491d0
+    m_Address: Assets/Prefabs/Audio Source.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7749df83a45101d4188e122acb409ef0
+    m_Address: Assets/Prefabs/ChatMessage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8bae06c6014c658419dfcd25ff7ce52c
+    m_Address: Assets/Prefabs/Loading Screen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8b4b329671278844e8e4be82cfca69f2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 56171efd1dc6d8b488d91cff4132f8c0, type: 2}
+    - {fileID: 11400000, guid: 861e3c8ac87ec3644956670fe340dc58, type: 2}
